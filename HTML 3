@@ -1,0 +1,10 @@
+É possível colocar elementos dentro de outros elementos, uma prática conhecida como ANINHAMENTO: Maior flexibilidade e riqueza na formatação do conteúdo.
+Exemplo: enfatizar a palavra "HTML" -> enfatizar com o elemento <strong> que indica ênfase forte: <p>Este é um curso de <strong>HTML</strong>!</p>
+Certificar sempre se estão alinhados adequadamente:
+1º: Abrir  o elemento <p>;
+2º: Depois o elemento <strong>;
+3º: Fechar o elemento <strong>;
+4º: Depois o elemento <p>;
+Os HIPERTEXTOS, por sua vez, são CONJUNTOS DE ELEMENTOS CONECTADOS. Esses podem ser palavras, imagens, vídeos, documentos, etc. Quando conectados, formam uma rede de informações que permite a comunicação de dados, orgamizando conhecimentos e guardando informações. Exemplo: texto conter um link de um vídeo ou uma imagem pode ser um link para outro documento.
+Ao visitar uma página na web, você pode perceber que existem diferentes distribuições e tamanhos para títulos, parágrafos, imagens, vídeos e qualquer outro elemento. 
+HTML - O ESQUELETO DA PÁGINA DA WEB!
